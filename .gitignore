@@ -1,0 +1,5 @@
+node_modules/
+dist/
+tests/karma.bundle.js
+coverage/
+.DS_Store
